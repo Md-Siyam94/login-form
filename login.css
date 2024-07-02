@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+}
+.from{
+    border: 2px solid rgb(44, 9, 65);
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 450px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+
+
+}
+h3{
+    margin-top: 50px;
+    font-size: 24px;
+
+    
+}
+input{
+    height: 30px;
+    width: 300px;
+    border: 1px solid rgb(15, 94, 114);
+    border-radius: 10px;
+    margin: 5px;
+}
+#tap{
+    margin-left: 10px;
+}
+input::placeholder{
+    padding-left: 15px;
+}
