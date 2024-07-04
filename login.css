@@ -19,6 +19,15 @@ h3{
 
     
 }
+#sent input{
+    background: #3c149b;
+    font-size: 18px;
+    color: beige;
+}
+#sent input:hover{
+    background: #250179;
+}
+
 input{
     height: 30px;
     width: 300px;
@@ -31,4 +40,7 @@ input{
 }
 input::placeholder{
     padding-left: 15px;
+}
+span a{
+    text-decoration: none;
 }
